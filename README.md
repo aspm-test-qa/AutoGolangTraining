@@ -1,3 +1,3 @@
 # GolangTraining
 Training for Golang (go language)
-test1
+test
